@@ -69,10 +69,8 @@ Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Ji
 
 ---
 
-#### Scholarships
+#### Awards & Scholarships
 - KAIST Support Scholarship (2016-2018)
-- The National Scholarship for Science and Engineering (2011-2015)
-
-#### Awards
 - Excellence Award in Creative Challenge Type SW R&D Program (2015)
 - 3rd place in “Show Me The Street” Innovation Challenge (2015)
+- The National Scholarship for Science and Engineering (2011-2015)
