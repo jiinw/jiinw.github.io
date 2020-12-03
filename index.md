@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-You can use the [editor on GitHub](https://github.com/jiwoo11/jiwoo11.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+layout: default
+title: Jiin Woo
+permalink: /
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*{{ site.email }}* \\
+[NAVER Corporation](https://kaist.ac.kr/), Daejeon, Korea.
 
-### Markdown
+<div class="row pb-3" style="text-align: center">
+<div class="col">
+<a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github fa-2x"></i></a>
+<a href="https://scholar.google.co.kr/citations?user=fwDL_gMAAAAJ"><i class="ai ai-google-scholar fa-2x"></i></a>
+</div>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hi, I am a machine learning researcher in NAVER Corporation.
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+#### Publications
+(C: conference, P: preprint, \* equal contribution)
 
-- Bulleted
-- List
+[C3] Iterative Learning of Graph Connectivity from Partially‑Observed Cascade Samples \\
+<strong><u>Jiin Woo</u></strong, Jungseul Ok, Yung Yi \\
+*ACM MobiHoc*, 2020 \\
+[[paper]()]
 
-1. Numbered
-2. List
+[J2]  Information Source Finding in Networks: Querying With Budgets \\
+Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
+*IEEE/ACM Transactions on Networking*, 2020 \\
+[[paper]()]
 
-**Bold** and _Italic_ and `Code` text
+[C2]  On the Asymptotic Content Routing Stretch in Network of Caches: Impact of Popularity Learning \\
+Boram Jin, <strong><u>Jiin Woo</u></strong>, Yung Yi \\
+*NETGCOOP*, 2019 \\
+[[paper](http://lanada.kaist.ac.kr/Publication/Conference/On_the_asymptotic.pdf)]
 
-[Link](url) and ![Image](src)
-```
+[J1] Estimating the Information Source under Decaying Diffusion Rates \\
+<strong><u>Jiin Woo</u></strong>, Jaeyoung Choi \\
+*Electronics*, 2019 \\
+[[paper]()]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[C1]  Rumor Source Detection under Querying with Untruthful Answers \\
+Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
+*IEEE INFOCOM*, 2017 \\
+[[paper](https://arxiv.org/pdf/1711.05496.pdf)]
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiwoo11/jiwoo11.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Education
+<strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, 2016. 08 - 2018. 08 \\
+<strong>M.S. in Electrical Engineering</strong> (adviser: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 
-### Support or Contact
+<strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, 2011. 02 - 2016. 08 \\
+<strong>B.S. in Mathematical Science</strong>
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Work Experience
+<strong>NAVER Corporation</strong>, Seongnam, Korea, 2018. 09 - present \\
+<strong>Machine Learning Researcher</strong>
+
+---
+
+#### Honors
+- KAIST Support Scholarship (2016-2018)
+- The National Scholarship for Science and Engineering (2011-2015)
+
+#### Awards
+- Excellence Award in Creative Challenge Type SW R&D Program (2015)
+- 3rd place in “Show Me The Street” Innovation Challenge (2015)
