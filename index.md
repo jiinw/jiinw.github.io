@@ -68,7 +68,7 @@ Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Ji
 
 ---
 
-#### Honors
+#### Scholarships
 - KAIST Support Scholarship (2016-2018)
 - The National Scholarship for Science and Engineering (2011-2015)
 
