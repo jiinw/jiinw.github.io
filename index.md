@@ -56,7 +56,7 @@ Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Ji
 <strong>M.S. in Electrical Engineering</strong> (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 
 <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, 2011. 02 - 2016. 08 \\
-<strong>B.S. in Mathematical Science</strong>
+<strong>B.S. in Mathematical Sciences</strong>
 
 ---
 
