@@ -8,7 +8,7 @@ permalink: /
 ---
 
 *{{ site.email }}* \\
-[NAVER Corporation](https://navercorp.com/), Daejeon, Korea.
+[NAVER Corporation](https://www.navercorp.com/), Seongnam, Korea.
 
 <div class="row pb-3" style="text-align: center">
 <div class="col">
