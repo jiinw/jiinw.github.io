@@ -31,7 +31,7 @@ Hi, I am a machine learning researcher in NAVER Corporation.  I received an M.S.
 ---
 
 #### Publications
-(C: conference, J: journal)
+(C: Conference, J: Journal)
 
 [C3] Iterative Learning of Graph Connectivity from Partially‑Observed Cascade Samples \\
 <strong><u>Jiin Woo</u></strong>, Jungseul Ok, Yung Yi \\
