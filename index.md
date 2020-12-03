@@ -57,6 +57,7 @@ Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Ji
 
 <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, 2011. 02 - 2016. 08 \\
 <strong>B.S. in Mathematical Science</strong>
+
 ---
 
 #### Work Experience
