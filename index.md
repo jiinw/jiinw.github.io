@@ -8,7 +8,7 @@ permalink: /
 ---
 
 *{{ site.email }}* \\
-[NAVER Corporation](https://www.navercorp.com/en/), Seongnam, Korea.
+Data Insight Center, [NAVER Corporation](https://www.navercorp.com/en/), Seongnam, Korea.
 
 <div class="row pb-3" style="text-align: center">
 <div class="col">
