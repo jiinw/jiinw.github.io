@@ -17,6 +17,8 @@ permalink: /
 </div>
 </div>
 
+![profile](/images/wji.jpg)
+
 Hi, I am a machine learning researcher in NAVER Corporation.  I received an M.S. in Electrical Engineering (Aug. 2018) and a B.S. in Mathematics (Aug. 2016) in KAIST.
 
 ---
