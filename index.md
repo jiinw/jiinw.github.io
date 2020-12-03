@@ -17,7 +17,7 @@ permalink: /
 </div>
 </div>
 
-<img src="images/wji.jpg" alt="drawing" width="200"/>
+<img src="images/wji.jpg" alt="drawing" width="400"/>
 
 Hi, I am a machine learning researcher in NAVER Corporation.  I received an M.S. in Electrical Engineering (Aug. 2018) and a B.S. in Mathematics (Aug. 2016) in KAIST.
 
