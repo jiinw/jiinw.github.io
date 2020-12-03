@@ -21,6 +21,12 @@ Hi, I am a machine learning researcher in NAVER Corporation.
 
 ---
 
+#### Work Experience
+<strong>NAVER Corporation</strong>, Seongnam, Korea, 2018. 09 - present \\
+<strong>Machine Learning Researcher</strong>
+
+---
+
 #### Publications
 (C: conference, J: journal)
 
@@ -57,12 +63,6 @@ Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Ji
 
 <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, 2011. 02 - 2016. 08 \\
 <strong>B.S. in Mathematical Sciences</strong>
-
----
-
-#### Work Experience
-<strong>NAVER Corporation</strong>, Seongnam, Korea, 2018. 09 - present \\
-<strong>Machine Learning Researcher</strong>
 
 ---
 
