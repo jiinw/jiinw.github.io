@@ -36,7 +36,7 @@ Hi, I am a machine learning engineer in NAVER Corporation.  I received an M.S. i
 [C3] Iterative Learning of Graph Connectivity from Partially‑Observed Cascade Samples \\
 <strong><u>Jiin Woo</u></strong>, Jungseul Ok, Yung Yi \\
 *ACM MobiHoc*, 2020 \\
-[[paper]()]
+[[paper](https://www.dropbox.com/s/uwcy9ycul6f8cpb/full_ver.pdf?dl=0)]
 
 [J2]  Information Source Finding in Networks: Querying With Budgets \\
 Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
