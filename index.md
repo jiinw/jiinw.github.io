@@ -19,14 +19,14 @@ Data Insight Center, [NAVER Corporation](https://www.navercorp.com/en/), Seongna
 
 <img src="images/wji.jpg" alt="drawing" width="400"/>
 
-Hi, I am a machine learning developer in NAVER Corporation.  I received an M.S. in Electrical Engineering (Aug. 2018) and a B.S. in Mathematics (Aug. 2016) in Korea Advanced Institute of Science and Technology (KAIST). \\
+Hi, I am a machine learning engineer in NAVER Corporation.  I received an M.S. in Electrical Engineering (Aug. 2018) and a B.S. in Mathematics (Aug. 2016) in Korea Advanced Institute of Science and Technology (KAIST). \\
 [CV](images/CV_jiwoo.pdf)
 
 ---
 
 #### Work Experience
 <strong>NAVER Corporation</strong>, Seongnam, Korea, 2018. 09 - present \\
-<strong>Machine Learning Developer</strong>
+<strong>Machine Learning Engineer</strong>
 
 ---
 
