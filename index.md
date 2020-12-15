@@ -41,7 +41,7 @@ Hi, I am a machine learning engineer in NAVER Corporation.  I received an M.S. i
 [J2]  Information Source Finding in Networks: Querying With Budgets \\
 Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
 *IEEE/ACM Transactions on Networking*, 2020 \\
-[[paper]()]
+[[paper](https://arxiv.org/pdf/2009.00795.pdf)]
 
 [C2]  On the Asymptotic Content Routing Stretch in Network of Caches: Impact of Popularity Learning \\
 Boram Jin, <strong><u>Jiin Woo</u></strong>, Yung Yi \\
@@ -51,7 +51,7 @@ Boram Jin, <strong><u>Jiin Woo</u></strong>, Yung Yi \\
 [J1] Estimating the Information Source under Decaying Diffusion Rates \\
 <strong><u>Jiin Woo</u></strong>, Jaeyoung Choi \\
 *Electronics*, 2019 \\
-[[paper]()]
+[[paper](https://www.mdpi.com/2079-9292/8/12/1384)]
 
 [C1]  Rumor Source Detection under Querying with Untruthful Answers \\
 Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
