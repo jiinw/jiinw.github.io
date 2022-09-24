@@ -7,8 +7,8 @@ title: Jiin Woo
 permalink: /
 ---
 
-*{{ site.email }}* \\
-Data Insight Center, [NAVER Corporation](https://www.navercorp.com/en/), Seongnam, South Korea.
+*{{ jiinw [at] andrew [dot] cmu [dot] edu }}* \\
+Electrical and Computer Engineering Department, Carnegie Mellon University, Pittsburgh, PA
 
 <div class="row pb-3" style="text-align: center">
 <div class="col">
@@ -19,14 +19,9 @@ Data Insight Center, [NAVER Corporation](https://www.navercorp.com/en/), Seongna
 
 <img src="images/wji.jpg" alt="drawing" width="400"/>
 
-Hi, I am a machine learning engineer in NAVER Corporation.  I received an M.S. in Electrical Engineering (Aug. 2018) and a B.S. in Mathematical Sciences (Aug. 2016) in Korea Advanced Institute of Science and Technology (KAIST). \\
-[CV](images/CV_jiwoo1.pdf)
-
----
-
-#### Work Experience
-<strong>NAVER Corporation</strong>, Seongnam, Korea, 2018. 09 - present \\
-<strong>Machine Learning Engineer</strong>
+Hi, I am a PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). I am  Before coming to CMU, I received an M.S. in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/))and a B.S. in Mathematical Sciences (Aug. 2016) in Korea Advanced Institute of Science and Technology (KAIST). \\
+[LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189)
+[Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ)
 
 ---
 
@@ -61,11 +56,20 @@ Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Ji
 ---
 
 #### Education
-<strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, 2016. 08 - 2018. 08 \\
-<strong>M.S. in Electrical Engineering</strong> (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
+<strong>Carnegie Mellon University (CMU)</strong>, Pittsburgh, PA, USA, Aug 2021 - Present \\
+<strong>Ph.D. in Electrical and Computer Engineering</strong> (advisors: [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/))
 
-<strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, 2011. 02 - 2016. 08 \\
+<strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, Aug 2016 - Aug 2018 \\
+<strong>M.S. in Electrical Engineering</strong> (advisor: [Yung Yi](https://yung-web.github.io/home/))
+
+<strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, Feb 2011 - Aug 2016 \\
 <strong>B.S. in Mathematical Sciences</strong>
+
+---
+
+#### Work Experience
+<strong>[NAVER Corp.](https://www.navercorp.com/en/naver/company)</strong>, Seongnam, Korea, Sep 2018 - Aug 2021 \\
+<strong>Machine Learning Engineer</strong>
 
 ---
 
