@@ -7,7 +7,7 @@ title: Jiin Woo
 permalink: /
 ---
 
-*{{ jiinw [at] andrew [dot] cmu [dot] edu }}* \\
+*{{ site.email }}* \\
 Electrical and Computer Engineering Department, Carnegie Mellon University, Pittsburgh, PA
 
 <div class="row pb-3" style="text-align: center">
@@ -23,6 +23,7 @@ Hi, I am a PhD student in [Electrical and Computer Engineering](https://www.ece.
 
 My reserach interests lie in the theoretical foundations in reinforcement learning, distributed machine learning, and statistical inference.
 
+Contact: jiinw [at] andrew [dot] cmu [dot] edu \\
 [LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189) \\
 [Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ)
 
