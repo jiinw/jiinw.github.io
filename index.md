@@ -17,7 +17,7 @@ Electrical and Computer Engineering Department, Carnegie Mellon University, Pitt
 </div>
 </div>
 
-# Hi, I'm Jiin Woo.
+# Hi, I'm Jiin Woo
 
 <img src="files/jiinw_profile.jpg" alt="drawing" width="400"/>
 
