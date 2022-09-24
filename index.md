@@ -35,7 +35,7 @@ Contact: jiinw [at] andrew [dot] cmu [dot] edu \\
 [C3] Iterative Learning of Graph Connectivity from Partially‑Observed Cascade Samples \\
 <strong><u>Jiin Woo</u></strong>, Jungseul Ok, Yung Yi \\
 *ACM MobiHoc*, 2020 \\
-[[paper](images/full_ver.pdf)]
+[[paper](https://dl.acm.org/doi/abs/10.1145/3397166.3409130)]
 
 [J2]  Information Source Finding in Networks: Querying With Budgets \\
 Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
