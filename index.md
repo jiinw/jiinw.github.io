@@ -19,13 +19,13 @@ Electrical and Computer Engineering Department, Carnegie Mellon University, Pitt
 
 # Hi, I'm Jiin Woo
 
-<img style="float: left; margin-right: 20px;" src="./jiin_profile.jpeg" alt="drawing" width="250"/>
+<img style="float: left; margin-right: 40px;" src="./jiin_profile.jpeg" alt="drawing" width="300"/>
 
 I am a PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I received an M.S. in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/))and a B.S. in Mathematical Sciences (Aug. 2016) in [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
 
 My reserach interests lie in the theoretical foundations in reinforcement learning, distributed machine learning, and statistical inference.
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 Contact: jiinw [at] andrew [dot] cmu [dot] edu \\
 [LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189) \\
