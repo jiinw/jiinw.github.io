@@ -6,19 +6,10 @@ layout: default
 title: Jiin Woo
 permalink: /
 ---
-PhD student at Carnegie Mellon University \\
-Pittsburgh, PA, USA 
+PhD student at Carnegie Mellon University, Pittsburgh, PA, USA 
 
-Email: *{{ site.email }}* 
-
+Email: *{{ site.email }}* \\
 [LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189)/[Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ)
-
-<div class="row pb-3" style="text-align: center">
-<div class="col">
-<a href="https://github.com/{{ site.github_username }}"><i class="fab fa-github fa-2x"></i></a>
-<a href="https://scholar.google.co.kr/citations?user=fwDL_gMAAAAJ"><i class="ai ai-google-scholar fa-2x"></i></a>
-</div>
-</div>
 
 # Hi, I'm Jiin Woo
 
