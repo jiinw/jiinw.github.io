@@ -19,7 +19,7 @@ Electrical and Computer Engineering Department, Carnegie Mellon University, Pitt
 
 # Hi, I'm Jiin Woo
 
-<img src="./jiinw_profile.jpg" alt="drawing" width="400"/>
+<img src="./jiinw_profile.jpeg" alt="drawing" width="400"/>
 
 I am a PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I received an M.S. in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/))and a B.S. in Mathematical Sciences (Aug. 2016) in [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
 
