@@ -75,7 +75,7 @@ B.S. in Mathematical Sciences
 
 ### Work Experience
 <strong>[NAVER Corp.](https://www.navercorp.com/en/naver/company)</strong>, Seongnam, Korea, Sep 2018 - Aug 2021 \\
-<strong>Machine Learning Engineer</strong>
+Machine Learning Engineer
 
 ---
 
