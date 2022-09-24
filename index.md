@@ -17,7 +17,8 @@ Electrical and Computer Engineering Department, Carnegie Mellon University, Pitt
 </div>
 </div>
 
-# Hi, I am Jiin Woo.
+# Hi, I'm Jiin Woo.
+
 <img src="files/jiinw_profile.jpg" alt="drawing" width="400"/>
 
 I am a PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I received an M.S. in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/))and a B.S. in Mathematical Sciences (Aug. 2016) in [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
@@ -30,7 +31,7 @@ Contact: jiinw [at] andrew [dot] cmu [dot] edu \\
 
 ---
 
-#### Publications
+### Publications
 (C: Conference, J: Journal)
 
 [C3] Iterative Learning of Graph Connectivity from Partially‑Observed Cascade Samples \\
@@ -60,7 +61,7 @@ Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Ji
 
 ---
 
-#### Education
+### Education
 <strong>Carnegie Mellon University (CMU)</strong>, Pittsburgh, PA, USA, Aug 2021 - Present \\
 Ph.D. in Electrical and Computer Engineering (advisors: [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/))
 
@@ -72,13 +73,13 @@ B.S. in Mathematical Sciences
 
 ---
 
-#### Work Experience
+### Work Experience
 <strong>[NAVER Corp.](https://www.navercorp.com/en/naver/company)</strong>, Seongnam, Korea, Sep 2018 - Aug 2021 \\
 <strong>Machine Learning Engineer</strong>
 
 ---
 
-#### Awards & Scholarships
+### Awards & Scholarships
 - KAIST Support Scholarship (2016-2018)
 - Excellence Award in Creative Challenge Type SW R&D Program (2015)
 - 3rd place in “Show Me The Street” Innovation Challenge (2015)
