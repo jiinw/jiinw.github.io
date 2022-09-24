@@ -25,7 +25,7 @@ I am a PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.
 
 My reserach interests lie in the theoretical foundations in reinforcement learning, distributed machine learning, and statistical inference.
 
-<br><br><br><br>
+<br><br><br>
 
 Contact: jiinw [at] andrew [dot] cmu [dot] edu \\
 [LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189) \\
