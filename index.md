@@ -6,6 +6,8 @@ layout: default
 title: Jiin Woo
 permalink: /
 ---
+## Jiin Woo
+
 PhD student at Carnegie Mellon University, Pittsburgh, PA, USA 
 
 Email: *{{ site.email }}* \\
