@@ -12,7 +12,7 @@ PhD student at Carnegie Mellon University, Pittsburgh, PA, USA \\
 Email: *{{ site.email }}* \\
 \[[LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189)\]/\[[Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ)\]
 
-# Hi, I'm <span style="color:blue">Jiin</span>
+# Hi, I'm <span style="color:DarkCyan">Jiin</span>
 
 <img style="margin-right: 40px;" src="./jiinw_profile.jpeg" alt="drawing" width="300"/>
 
