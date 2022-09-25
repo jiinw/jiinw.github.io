@@ -8,12 +8,11 @@ permalink: /
 ---
 ## Jiin Woo
 
-PhD student at Carnegie Mellon University, Pittsburgh, PA, USA 
-
+PhD student at Carnegie Mellon University, Pittsburgh, PA, USA \\
 Email: *{{ site.email }}* \\
 \[[LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189)\]/\[[Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ)\]
 
-# Hi, I'm Jiin Woo
+# Hi, I'm <span style="color:blue">Jiin</span>
 
 <img style="margin-right: 40px;" src="./jiinw_profile.jpeg" alt="drawing" width="300"/>
 
