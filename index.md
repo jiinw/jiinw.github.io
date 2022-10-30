@@ -22,7 +22,7 @@ I am a PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.
 
 My reserach interests are in reinforcement learning, distributed machine learning, and statistical inference.
 
-\[[CV](./CV_jiinw_221030.pdf)\]
+\[[CV](./CV_jiinw.pdf)\]
 
 ---
 
