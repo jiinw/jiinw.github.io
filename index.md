@@ -75,7 +75,8 @@ Machine Learning Engineer
 ---
 
 ### Awards & Scholarships
-- Hsu Chang Memorial Fellowship (2023)
+- Hsu Chang Memorial Fellowship (2022-2023)
+- Carnegie Institute of Technology Dean’s Fellowship (2021-2022)
 - KAIST Support Scholarship (2016-2018)
 - Excellence Award in Creative Challenge Type SW R&D Program (2015)
 - 3rd place in Cisco “Show Me The Street” Innovation Challenge (2015)
