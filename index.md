@@ -8,9 +8,9 @@ permalink: /
 ---
 ## Jiin Woo
 
-PhD student at Carnegie Mellon University, Pittsburgh, PA, USA \\
+Carnegie Mellon University, Pittsburgh, PA, USA \\
 Email: *{{ site.email }}* \\
-\[[LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189)\]/\[[Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ)\]
+[LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189) / [Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ)
 
 ---
 
@@ -18,7 +18,7 @@ Email: *{{ site.email }}* \\
 
 <img style="margin-right: 40px;" src="./jiinw_profile.jpeg" alt="drawing" width="300"/>
 
-I am a PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I received an M.S. in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and a B.S. in Mathematical Sciences in [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
+I am a second-year PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I received an M.S. in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and a B.S. in Mathematical Sciences in [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
 
 My reserach interests are in reinforcement learning, distributed machine learning, and statistical inference.
 
@@ -75,7 +75,8 @@ Machine Learning Engineer
 ---
 
 ### Awards & Scholarships
+- Hsu Chang Memorial Fellowship (2023)
 - KAIST Support Scholarship (2016-2018)
 - Excellence Award in Creative Challenge Type SW R&D Program (2015)
-- 3rd place in “Show Me The Street” Innovation Challenge (2015)
+- 3rd place in Cisco “Show Me The Street” Innovation Challenge (2015)
 - The National Scholarship for Science and Engineering (2011-2015)
