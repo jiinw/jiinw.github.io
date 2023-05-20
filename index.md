@@ -26,9 +26,8 @@ My reserach interests are in reinforcement learning, distributed machine learnin
 ---
 
 ### Selected Publications
-(C: Conference, J: Journal)
 
-[C3] The Blessing of Heterogeneity in Federated Q-learning: Linear Speedup and Beyond \\
+* The Blessing of Heterogeneity in Federated Q-learning: Linear Speedup and Beyond \\
 <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
 *ICML*, 2023 \\
 [[arxiv](https://arxiv.org/abs/2305.10697)]
