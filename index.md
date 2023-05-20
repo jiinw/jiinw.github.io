@@ -21,7 +21,7 @@ I am a second-year PhD student in [Electrical and Computer Engineering](https://
 
 My reserach interests are in reinforcement learning, distributed machine learning, and statistical inference. Specifically, I am currently focusing on federated RL with provable guarantees.
 
-\[[CV](./CV_jiinw.pdf)\]
+\[[CV](.)\]
 
 ---
 
