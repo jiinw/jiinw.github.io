@@ -19,39 +19,19 @@ Email: *{{ site.email }}* \\
 
 I am a second-year PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I received an M.S. in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and a B.S. in Mathematical Sciences in [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
 
-My reserach interests are in reinforcement learning, distributed machine learning, and statistical inference. Specifically, I am currently focusing on federated RL with provable speedup guarantees.
+My reserach interests are in reinforcement learning, distributed machine learning, and statistical inference. Specifically, I am currently focusing on federated RL with provable theoretical guarantees.
 
 \[[CV](./CV_jiinw.pdf)\]
 
 ---
 
-### Publications
+### Selected Publications
 (C: Conference, J: Journal)
 
-[C3] Iterative Learning of Graph Connectivity from Partially‑Observed Cascade Samples \\
-<strong><u>Jiin Woo</u></strong>, Jungseul Ok, Yung Yi \\
-*ACM MobiHoc*, 2020 \\
-[[paper](https://dl.acm.org/doi/abs/10.1145/3397166.3409130)]
-
-[J2]  Information Source Finding in Networks: Querying With Budgets \\
-Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
-*IEEE/ACM Transactions on Networking*, 2020 \\
-[[paper](https://arxiv.org/pdf/2009.00795.pdf)]
-
-[C2]  On the Asymptotic Content Routing Stretch in Network of Caches: Impact of Popularity Learning \\
-Boram Jin, <strong><u>Jiin Woo</u></strong>, Yung Yi \\
-*NETGCOOP*, 2019 \\
-[[paper](http://lanada.kaist.ac.kr/Publication/Conference/On_the_asymptotic.pdf)]
-
-[J1] Estimating the Information Source under Decaying Diffusion Rates \\
-<strong><u>Jiin Woo</u></strong>, Jaeyoung Choi \\
-*Electronics*, 2019 \\
-[[paper](https://www.mdpi.com/2079-9292/8/12/1384)]
-
-[C1]  Rumor Source Detection under Querying with Untruthful Answers \\
-Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
-*IEEE INFOCOM*, 2017 \\
-[[paper](https://arxiv.org/pdf/1711.05496.pdf)]
+[C3] The Blessing of Heterogeneity in Federated Q-learning: Linear Speedup and Beyond \\
+<strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
+*ICML*, 2023 \\
+[[arxiv](https://arxiv.org/abs/2305.10697)]
 
 ---
 
@@ -80,3 +60,34 @@ Machine Learning Engineer
 - Excellence Award in Creative Challenge Type SW R&D Program (2015)
 - 3rd place in Cisco “Show Me The Street” Innovation Challenge (2015)
 - The National Scholarship for Science and Engineering (2011-2015)
+
+---
+
+### Previous Publications
+
+* Iterative Learning of Graph Connectivity from Partially‑Observed Cascade Samples \\
+<strong><u>Jiin Woo</u></strong>, Jungseul Ok, Yung Yi \\
+*ACM MobiHoc*, 2020 \\
+[[paper](https://dl.acm.org/doi/abs/10.1145/3397166.3409130)]
+
+*  Information Source Finding in Networks: Querying With Budgets \\
+Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
+*IEEE/ACM Transactions on Networking*, 2020 \\
+[[paper](https://arxiv.org/pdf/2009.00795.pdf)]
+
+<!-- 
+*  On the Asymptotic Content Routing Stretch in Network of Caches: Impact of Popularity Learning \\
+Boram Jin, <strong><u>Jiin Woo</u></strong>, Yung Yi \\
+*NETGCOOP*, 2019 \\
+[[paper](http://lanada.kaist.ac.kr/Publication/Conference/On_the_asymptotic.pdf)]
+
+* Estimating the Information Source under Decaying Diffusion Rates \\
+<strong><u>Jiin Woo</u></strong>, Jaeyoung Choi \\
+*Electronics*, 2019 \\
+[[paper](https://www.mdpi.com/2079-9292/8/12/1384)]
+-->
+
+*  Rumor Source Detection under Querying with Untruthful Answers \\
+Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
+*IEEE INFOCOM*, 2017 \\
+[[paper](https://arxiv.org/pdf/1711.05496.pdf)]
