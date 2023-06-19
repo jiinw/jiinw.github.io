@@ -46,18 +46,6 @@ Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Ji
 *IEEE/ACM Transactions on Networking*, 2020 \\
 [[paper](https://arxiv.org/pdf/2009.00795.pdf)]
 
-<!-- 
-*  On the Asymptotic Content Routing Stretch in Network of Caches: Impact of Popularity Learning \\
-Boram Jin, <strong><u>Jiin Woo</u></strong>, Yung Yi \\
-*NETGCOOP*, 2019 \\
-[[paper](http://lanada.kaist.ac.kr/Publication/Conference/On_the_asymptotic.pdf)]
-
-* Estimating the Information Source under Decaying Diffusion Rates \\
-<strong><u>Jiin Woo</u></strong>, Jaeyoung Choi \\
-*Electronics*, 2019 \\
-[[paper](https://www.mdpi.com/2079-9292/8/12/1384)]
--->
-
 *  Rumor Source Detection under Querying with Untruthful Answers \\
 Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
 *IEEE INFOCOM*, 2017 \\
@@ -93,6 +81,7 @@ Machine Learning Engineer
 
 ---
 
+<!-- 
 ### Previous Publications
 
 * Iterative Learning of Graph Connectivity from Partially‑Observed Cascade Samples \\
@@ -105,7 +94,7 @@ Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Ji
 *IEEE/ACM Transactions on Networking*, 2020 \\
 [[paper](https://arxiv.org/pdf/2009.00795.pdf)]
 
-<!-- 
+
 *  On the Asymptotic Content Routing Stretch in Network of Caches: Impact of Popularity Learning \\
 Boram Jin, <strong><u>Jiin Woo</u></strong>, Yung Yi \\
 *NETGCOOP*, 2019 \\
@@ -115,9 +104,11 @@ Boram Jin, <strong><u>Jiin Woo</u></strong>, Yung Yi \\
 <strong><u>Jiin Woo</u></strong>, Jaeyoung Choi \\
 *Electronics*, 2019 \\
 [[paper](https://www.mdpi.com/2079-9292/8/12/1384)]
--->
+
 
 *  Rumor Source Detection under Querying with Untruthful Answers \\
 Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
 *IEEE INFOCOM*, 2017 \\
 [[paper](https://arxiv.org/pdf/1711.05496.pdf)]
+
+-->
