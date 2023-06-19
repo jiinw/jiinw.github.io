@@ -27,10 +27,41 @@ My reserach interests are in reinforcement learning, distributed machine learnin
 
 ### Selected Publications
 
-* The Blessing of Heterogeneity in Federated Q-learning: Linear Speedup and Beyond \\
+#### Distributed Reinforcement Learning
+
+* The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond \\
 <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
 *ICML*, 2023 \\
 [[arxiv](https://arxiv.org/abs/2305.10697)]
+
+#### Statistical Inference with Social Network Data
+
+* Iterative Learning of Graph Connectivity from Partially‑Observed Cascade Samples \\
+<strong><u>Jiin Woo</u></strong>, Jungseul Ok, Yung Yi \\
+*ACM MobiHoc*, 2020 \\
+[[paper](https://dl.acm.org/doi/abs/10.1145/3397166.3409130)]
+
+*  Information Source Finding in Networks: Querying With Budgets \\
+Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
+*IEEE/ACM Transactions on Networking*, 2020 \\
+[[paper](https://arxiv.org/pdf/2009.00795.pdf)]
+
+<!-- 
+*  On the Asymptotic Content Routing Stretch in Network of Caches: Impact of Popularity Learning \\
+Boram Jin, <strong><u>Jiin Woo</u></strong>, Yung Yi \\
+*NETGCOOP*, 2019 \\
+[[paper](http://lanada.kaist.ac.kr/Publication/Conference/On_the_asymptotic.pdf)]
+
+* Estimating the Information Source under Decaying Diffusion Rates \\
+<strong><u>Jiin Woo</u></strong>, Jaeyoung Choi \\
+*Electronics*, 2019 \\
+[[paper](https://www.mdpi.com/2079-9292/8/12/1384)]
+-->
+
+*  Rumor Source Detection under Querying with Untruthful Answers \\
+Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
+*IEEE INFOCOM*, 2017 \\
+[[paper](https://arxiv.org/pdf/1711.05496.pdf)]
 
 ---
 
