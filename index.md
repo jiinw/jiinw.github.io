@@ -17,7 +17,7 @@ Email: *{{ site.email }}* \\
 
 <img style="margin-right: 40px;" src="./jiinw_profile.jpeg" alt="drawing" width="300"/>
 
-I am a second-year PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I received an M.S. in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and a B.S. in Mathematical Sciences in [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
+I am a third-year PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I received an M.S. in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and a B.S. in Mathematical Sciences in [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
 
 My research interests lie in reinforcement learning, distributed machine learning, and statistical inference.
 
@@ -51,6 +51,7 @@ Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Ji
 *IEEE INFOCOM*, 2017 \\
 [[paper](https://arxiv.org/pdf/1711.05496.pdf)]
 
+<!-- 
 ---
 
 ### Education
@@ -63,11 +64,19 @@ M.S. in Electrical Engineering (advisor: [Yung Yi](https://yung-web.github.io/ho
 <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, Feb 2011 - Aug 2016 \\
 B.S. in Mathematical Sciences
 
+-->
+
 ---
 
 ### Work Experience
 <strong>[NAVER Corp.](https://www.navercorp.com/en/naver/company)</strong>, Seongnam, Korea, Sep 2018 - Aug 2021 \\
 Machine Learning Engineer
+
+---
+
+### Teaching experience & Services
+- Reviewer for NeurIPS 2023
+- TA for 18-813B: Special Topics in Artificial Intelligence: Foundations of Reinforcement Learning, Spring 2023
 
 ---
 
