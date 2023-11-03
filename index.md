@@ -11,6 +11,7 @@ permalink: /
 Carnegie Mellon University, Pittsburgh, PA, USA \\
 Email: *{{ site.email }}* \\
 [LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189) / [Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ) / [CV](./CV_jiinw.pdf)
+
 ---
 
 
