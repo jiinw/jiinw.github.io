@@ -75,7 +75,7 @@ Machine Learning Engineer
 ---
 
 ### Teaching experience & Services
-- Reviewer for NeurIPS 2023, ICLR 2023
+- Reviewer for NeurIPS 2023, ICLR 2024
 - TA for 18-813B: Special Topics in Artificial Intelligence: Foundations of Reinforcement Learning, Spring 2023
 
 ---
