@@ -10,8 +10,7 @@ permalink: /
 
 Carnegie Mellon University, Pittsburgh, PA, USA \\
 Email: *{{ site.email }}* \\
-[LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189) / [Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ)
-
+[LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189) / [Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ) / [CV](./CV_jiinw.pdf)
 ---
 
 
@@ -21,7 +20,7 @@ I am a third-year PhD student in [Electrical and Computer Engineering](https://w
 
 My research interests lie in reinforcement learning, distributed machine learning, and statistical inference.
 
-<!--  \[[CV](./CV_jiinw.pdf)\] -->
+
 
 ---
 
@@ -75,7 +74,7 @@ Machine Learning Engineer
 ---
 
 ### Teaching experience & Services
-- Reviewer for NeurIPS 2023
+- Reviewer for NeurIPS 2023, ICLR 2023
 - TA for 18-813B: Special Topics in Artificial Intelligence: Foundations of Reinforcement Learning, Spring 2023
 
 ---
