@@ -17,7 +17,7 @@ Email: *{{ site.email }}* \\
 
 <img style="margin-right: 40px;" src="./jiinw_profile.jpeg" alt="drawing" width="300"/>
 
-I am a third-year PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I received an M.S. in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and a B.S. in Mathematical Sciences in [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
+I am a third-year PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I was a machine learning engineer at [NAVER Search](https://www.navercorp.com/en/naver/company). Previously, I received an M.S. in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and a B.S. in Mathematical Sciences in [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
 
 My research interests lie in reinforcement learning, federated learning, and statistical inference.
 
@@ -25,9 +25,14 @@ My research interests lie in reinforcement learning, federated learning, and sta
 
 ---
 
-### Selected Publications
+### Selected Publications/Preprints
 
-#### Distributed Reinforcement Learning
+#### Reinforcement Learning
+
+* Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices \\
+<strong><u>Jiin Woo</u></strong>, Laixi Shi, Gauri Joshi, Yuejie Chi \\
+preprint \\
+[[arxiv](https://arxiv.org/abs/2402.05876)]
 
 * The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond \\
 <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
@@ -74,12 +79,6 @@ Machine Learning Engineer
 
 ---
 
-### Teaching experience & Services
-- Reviewer for NeurIPS 2023, ICLR 2024
-- TA for 18-813B: Special Topics in Artificial Intelligence: Foundations of Reinforcement Learning, Spring 2023
-
----
-
 ### Awards & Scholarships
 - Hsu Chang Memorial Fellowship (2022-2023)
 - Carnegie Institute of Technology Dean’s Fellowship (2021-2022)
@@ -87,6 +86,16 @@ Machine Learning Engineer
 - Excellence Award in Creative Challenge Type SW R&D Program (2015)
 - 3rd place in Cisco “Show Me The Street” Innovation Challenge (2015)
 - The National Scholarship for Science and Engineering (2011-2015)
+
+---
+
+### Teaching Experience
+- TA for 18-813B: Special Topics in Artificial Intelligence: Foundations of Reinforcement Learning, Spring 2023
+
+---
+
+### Professional Services
+- Reviewer for NeurIPS 2023, ICLR 2024
 
 ---
 
