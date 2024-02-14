@@ -10,7 +10,8 @@ permalink: /
 
 Carnegie Mellon University, Pittsburgh, PA, USA \\
 Email: *{{ site.email }}* \\
-[LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189) / [Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ) / [CV](./CV_jiinw.pdf)
+[LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189) / [Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ) 
+<!-- / [CV](./CV_jiinw.pdf) -->
 
 ---
 
@@ -71,13 +72,14 @@ M.S. in Electrical Engineering (advisor: [Yung Yi](https://yung-web.github.io/ho
 <strong>Korea Advanced Institute of Science and Technology (KAIST)</strong>, Daejeon, Korea, Feb 2011 - Aug 2016 \\
 B.S. in Mathematical Sciences
 
--->
+
 
 ---
 
 ### Work Experience
 <strong>[NAVER Corp.](https://www.navercorp.com/en/naver/company)</strong>, Seongnam, Korea, Sep 2018 - Aug 2021 \\
 Machine Learning Engineer
+-->
 
 ---
 
