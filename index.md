@@ -30,12 +30,11 @@ My research interests lie in reinforcement learning, federated learning, and sta
 
 #### Reinforcement Learning
 
-<!-- 
+
 * Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices \\
 <strong><u>Jiin Woo</u></strong>, Laixi Shi, Gauri Joshi, Yuejie Chi \\
 preprint \\
 [[arxiv](https://arxiv.org/abs/2402.05876)]
--->
 
 * The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond \\
 <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
@@ -99,7 +98,7 @@ Machine Learning Engineer
 ---
 
 ### Professional Services
-- Reviewer for NeurIPS 2023, ICLR 2024
+- Reviewer for NeurIPS 2023, ICLR 2024, ICML 2024
 
 ---
 
