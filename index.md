@@ -78,8 +78,8 @@ B.S. in Mathematical Sciences
 ### Work Experience
 <strong>[NAVER Corp.](https://www.navercorp.com/en/naver/company)</strong>, Seongnam, Korea, Sep 2018 - Aug 2021 \\
 Machine Learning Engineer
--->
 
+-->
 ---
 
 ### Awards & Scholarships
@@ -87,8 +87,8 @@ Machine Learning Engineer
 - Carnegie Institute of Technology Dean’s Fellowship (2021-2022)
 - KAIST Support Scholarship (2016-2018)
 - Excellence Award in Creative Challenge Type SW R&D Program (2015)
-- 3rd place in Cisco “Show Me The Street” Innovation Challenge (2015)
 - The National Scholarship for Science and Engineering (2011-2015)
+
 
 ---
 
@@ -97,10 +97,12 @@ Machine Learning Engineer
 
 ---
 
+<!--
 ### Professional Services
 - Reviewer for NeurIPS 2023, ICLR 2024, ICML 2024
 
 ---
+ -->
 
 <!-- 
 ### Previous Publications
