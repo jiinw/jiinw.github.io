@@ -18,7 +18,7 @@ Email: *{{ site.email }}* \\
 
 <img style="margin-right: 40px;" src="./jiinw_profile.jpeg" alt="drawing" width="300"/>
 
-I am a third-year PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I was a machine learning engineer at [NAVER Search](https://www.navercorp.com/en/naver/company). Previously, I received an M.S. in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and a B.S. in Mathematical Sciences in [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
+I am a third-year PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), fortunate to be advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I was a machine learning engineer at [NAVER Search](https://www.navercorp.com/en/naver/company). Previously, I received my MS in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and BS in Mathematical Sciences at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
 
 My research interests lie in reinforcement learning, federated learning, and statistical inference.
 
