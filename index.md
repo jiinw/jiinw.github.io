@@ -72,18 +72,20 @@ M.S. in Electrical Engineering (advisor: [Yung Yi](https://yung-web.github.io/ho
 B.S. in Mathematical Sciences
 
 
-
+-->
 ---
 
 ### Work Experience
 * Amazon (Central Machine Learning), Seattle, WA, USA, May 2024 - Aug 2024 \\
 Applied Scientist Intern
-
+    * LLM-enhanced RL for recommendation systems
 
 * NAVER Corp. (Search), Seongnam, Korea, Sep 2018 - Aug 2021 \\
 Machine Learning Engineer
+    * Long-tail search query analysis
+    * User search behavior/intent analysis
+    * Personalized keyword recommendation
 
--->
 ---
 
 ### Awards & Scholarships
