@@ -76,12 +76,12 @@ B.S. in Mathematical Sciences
 ---
 
 ### Work Experience
-* Amazon (Central Machine Learning), Seattle, WA, USA, May 2024 - Aug 2024 \\
-Applied Scientist Intern
+* Amazon (Central Machine Learning) \\
+Applied Scientist Intern, Seattle, WA, USA, May 2024 - Aug 2024 
     * LLM-enhanced RL for recommendation systems
 
-* NAVER Corp. (Search), Seongnam, Korea, Sep 2018 - Aug 2021 \\
-Machine Learning Engineer
+* NAVER Corp. (Search) \\
+Machine Learning Engineer, Seongnam, Korea, Sep 2018 - Aug 2021
     * Long-tail search query analysis
     * User search behavior/intent analysis
     * Personalized keyword recommendation
