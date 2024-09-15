@@ -86,6 +86,8 @@ Machine Learning Engineer, Seongnam, Korea, Sep 2018 - Aug 2021
     * User search behavior/intent analysis
     * Personalized keyword recommendation
 
+
+<!--
 ---
 
 ### Awards & Scholarships
@@ -95,7 +97,6 @@ Machine Learning Engineer, Seongnam, Korea, Sep 2018 - Aug 2021
 - Excellence Award in Creative Challenge Type SW R&D Program (2015)
 - The National Scholarship for Science and Engineering (2011-2015)
 
-
 ---
 
 ### Teaching Experience
@@ -104,7 +105,7 @@ Machine Learning Engineer, Seongnam, Korea, Sep 2018 - Aug 2021
 
 ---
 
-<!--
+
 ### Professional Services
 - Reviewer for NeurIPS 2023, ICLR 2024, ICML 2024
 
