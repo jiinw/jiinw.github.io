@@ -87,7 +87,7 @@ Machine Learning Engineer, Seongnam, Korea, Sep 2018 - Aug 2021
     * Personalized keyword recommendation
 
 
-<!--
+
 ---
 
 ### Awards & Scholarships
@@ -99,6 +99,7 @@ Machine Learning Engineer, Seongnam, Korea, Sep 2018 - Aug 2021
 
 ---
 
+<!--
 ### Teaching Experience
 - TA for 18-461/18-661: Introduction to ML for Engineers, Fall 2024
 - TA for 18-813B: Special Topics in Artificial Intelligence: Foundations of Reinforcement Learning, Spring 2023
