@@ -31,7 +31,7 @@ My research interests lie in reinforcement learning, federated learning, and sta
 #### Reinforcement Learning
 
 * Large Language Model‐Enhanced Reinforcement Learning for Diverse and Novel Recommendations \\
-Under review \\
+Under review
   
 * Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices \\
 <strong><u>Jiin Woo</u></strong>, Laixi Shi, Gauri Joshi, Yuejie Chi \\
