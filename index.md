@@ -32,7 +32,12 @@ My research interests lie in reinforcement learning, federated learning, and sta
 
 * Large Language Model‐Enhanced Reinforcement Learning for Diverse and Novel Recommendations \\
 *Under review*
-  
+
+* The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond \\
+<strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
+*JMLR*, 2025 \\
+[[paper](https://www.jmlr.org/papers/v26/24-0579.html)][[arxiv](https://arxiv.org/abs/2305.10697)]
+
 * Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices \\
 <strong><u>Jiin Woo</u></strong>, Laixi Shi, Gauri Joshi, Yuejie Chi \\
 *ICML*, 2024 \\
@@ -41,7 +46,7 @@ My research interests lie in reinforcement learning, federated learning, and sta
 * The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond \\
 <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
 *ICML*, 2023 \\
-[[arxiv](https://arxiv.org/abs/2305.10697)][[slides](https://icml.cc/media/icml-2023/Slides/24679_ljO6pDE.pdf)]
+[[paper](https://proceedings.mlr.press/v202/woo23a)][[slides](https://icml.cc/media/icml-2023/Slides/24679_ljO6pDE.pdf)]
 
 #### Statistical Inference with Social Network Data
 
