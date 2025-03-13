@@ -55,7 +55,7 @@ My research interests lie in reinforcement learning, federated learning, and sta
 *ACM MobiHoc*, 2020 \\
 [[paper](https://dl.acm.org/doi/abs/10.1145/3397166.3409130)]
 
-*  Information Source Finding in Networks: Querying With Budgets \\
+*  Information Source Finding in Networks: Querying with Budgets \\
 Jaeyoung Choi, Sangwoo Moon, <strong><u>Jiin Woo</u></strong>, KyungHwan Son, Jinwoo Shin, Yung Yi \\
 *IEEE/ACM Transactions on Networking*, 2020 \\
 [[paper](https://arxiv.org/pdf/2009.00795.pdf)]
