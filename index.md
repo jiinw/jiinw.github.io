@@ -18,7 +18,7 @@ Email: *{{ site.email }}* \\
 
 <img style="margin-right: 40px;" src="./jiinw_profile.jpeg" alt="drawing" width="300"/>
 
-I am a fourth-year PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), fortunate to be advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I was a machine learning engineer at [NAVER Search](https://www.navercorp.com/en/naver/company). Previously, I received my MS in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and BS in Mathematical Sciences at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
+I am a fifth-year PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), fortunate to be advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I was a machine learning engineer at [NAVER Search](https://www.navercorp.com/en/naver/company). Previously, I received my MS in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and BS in Mathematical Sciences at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
 
 My research interests lie in reinforcement learning, federated learning, and statistical inference.
 
@@ -35,6 +35,13 @@ My research interests lie in reinforcement learning, federated learning, and sta
 *Under review*
 -->
 
+<!-- 
+* Large Language Model-Enhanced RL for Diverse and Novel Recommendations \\
+<strong><u>Jiin Woo</u></strong>, Alireza Bagheri Garakani, Tianchen Zhou, Zhishen Huang, Yan Gao \\
+*ARLET Workshop @ NeurIPS*, 2025 \\
+[[arxiv](https://arxiv.org/abs/2305.10697)]
+-->
+  
 * The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond \\
 <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
 *JMLR*, 2025 \\
@@ -85,6 +92,10 @@ B.S. in Mathematical Sciences
 ---
 
 ### Work Experience
+* AWS (Annapurna Labs) \\
+Applied Scientist Intern, Santa Clara, CA, USA, May 2025 - present 
+    * LLM post-training for kernel code generation
+      
 * Amazon (Central Machine Learning) \\
 Applied Scientist Intern, Seattle, WA, USA, May 2024 - Aug 2024 
     * LLM-enhanced RL for recommendation systems
