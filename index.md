@@ -20,9 +20,9 @@ Email: *{{ site.email }}* \\
 
 I am a fifth-year PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), fortunate to be advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I was a machine learning engineer at [NAVER Search](https://www.navercorp.com/en/naver/company). Previously, I received my MS in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and BS in Mathematical Sciences at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
 
-My research interests lie in reinforcement learning, federated learning, and statistical inference.
+My research interests lie in collaborative reinforcement learning, LLM-augmented reinforcement learning, and statistical analysis.
 
-
+I'm currently on the job market and expect to graduate in Spring 2026. I'm always open to connecting and feel free to reach out!
 
 ---
 
