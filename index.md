@@ -22,7 +22,7 @@ I am a fifth-year PhD student in [Electrical and Computer Engineering](https://w
 
 My research interests lie in collaborative reinforcement learning, LLM-augmented reinforcement learning, and statistical analysis.
 
-I'm currently on the job market and expect to graduate in Spring 2026. I'm always open to connecting and feel free to reach out!
+I'm currently on the job market and expect to graduate in Spring 2026. I'm open to connecting and feel free to reach out!
 
 ---
 
