@@ -28,20 +28,24 @@ I'm currently on the job market and expect to graduate in Spring 2026. I'm alway
 
 ### Selected Publications/Preprints
 
-#### Reinforcement Learning
+#### LLMs + RL
 
-<!-- 
-* Large Language Model‐Enhanced Reinforcement Learning for Diverse and Novel Recommendations \\
-*Under review*
--->
+* TritonRL: Training LLMs to Think and Code Triton Without Cheating \\
+<strong><u>Jiin Woo</u></strong>, Shaowei Zhu, Allen Nie, Zhen Jia, Yida Wang, Youngsuk Park \\
+*Preprint*, 2025 \\
+[[arxiv](http://arxiv.org/abs/2510.17891)]
 
-<!-- 
 * Large Language Model-Enhanced RL for Diverse and Novel Recommendations \\
 <strong><u>Jiin Woo</u></strong>, Alireza Bagheri Garakani, Tianchen Zhou, Zhishen Huang, Yan Gao \\
 *ARLET Workshop @ NeurIPS*, 2025 \\
 [[arxiv](https://arxiv.org/abs/2305.10697)]
--->
+
   
+#### Collaborative RL
+* Sample Complexity of Average-Reward Q-Learning: From Single-agent to Federated Reinforcement Learning \\
+Yuchen Jiao<sup>*</sup>, **<u>Jiin Woo</u>**<sup>*</sup>, Gen Li, Gauri Joshi, Yuejie Chi \\
+*Preprint*, 2025 \\
+
 * The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond \\
 <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
 *JMLR*, 2025 \\
