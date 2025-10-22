@@ -47,7 +47,7 @@ I'm currently on the job market and expect to graduate in Spring 2026. I'm alway
 
 * Sample Complexity of Average-Reward Q-Learning: From Single-agent to Federated Reinforcement Learning \\
 Yuchen Jiao<sup>\*</sup>, **<u>Jiin Woo</u>**<sup>\*</sup>, Gen Li, Gauri Joshi, Yuejie Chi \\
-\*Preprint\*, 2025 \\
+*Preprint*, 2025 \\
 
 * The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond \\
 <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
