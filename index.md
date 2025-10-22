@@ -40,7 +40,7 @@ I'm currently on the job market and expect to graduate in Spring 2026. I'm open 
 * Large Language Model-Enhanced RL for Diverse and Novel Recommendations \\
 <strong><u>Jiin Woo</u></strong>, Alireza Bagheri Garakani, Tianchen Zhou, Zhishen Huang, Yan Gao \\
 *ARLET Workshop @ NeurIPS*, 2025 \\
-[[arxiv](https://arxiv.org/abs/2305.10697)]
+[[arxiv](https://arxiv.org/abs/2507.21274)]
 
   
 #### Collaborative RL
