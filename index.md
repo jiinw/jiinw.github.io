@@ -33,12 +33,12 @@ My research interests lie in LLM post-training and collaborative reinforcement l
 
 * Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL \\
 <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
-*NeurIPS*, 2026 \\
-[[arxiv](https://arxiv.org/pdf/2601.22318)], 2026 \\
+*NeurIPS*, 2026 
 
 * Federate the Router: Learning Language Model Routers with Sparse and Decentralized Evaluations \\
 Baris Askin, Shivam Patel, Anupam Nayak, Andrea Vigano, <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Carlee Joe-Wong  \\
 *NeurIPS*, 2026 \\
+[[arxiv](https://arxiv.org/pdf/2601.22318)]
 
 * TritonRL: Training LLMs to Think and Code Triton Without Cheating \\
 <strong><u>Jiin Woo</u></strong>, Shaowei Zhu, Allen Nie, Zhen Jia, Yida Wang, Youngsuk Park \\
