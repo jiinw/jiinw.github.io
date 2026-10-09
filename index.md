@@ -28,8 +28,6 @@ My research interests lie in LLM post-training and collaborative reinforcement l
 
 \* : equal distribution
 
-#### RL, LLM Post-training
-
 
 * Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL \\
 <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
@@ -69,7 +67,6 @@ Yuchen Jiao<sup>\*</sup>, **<u>Jiin Woo</u>**<sup>\*</sup>, Gen Li, Gauri Joshi,
 *ICML*, 2023 \\
 [[paper](https://proceedings.mlr.press/v202/woo23a.html)][[slides](https://icml.cc/media/icml-2023/Slides/24679_ljO6pDE.pdf)]
 
-#### Statistical Inference with Social Network Data
 
 * Iterative Learning of Graph Connectivity from Partially‑Observed Cascade Samples \\
 <strong><u>Jiin Woo</u></strong>, Jungseul Ok, Yung Yi \\
