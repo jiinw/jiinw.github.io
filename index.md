@@ -8,7 +8,7 @@ permalink: /
 ---
 ## Jiin Woo
 
-Carnegie Mellon University, Pittsburgh, PA, USA \\
+<!-- Carnegie Mellon University, Pittsburgh, PA, USA \\  -->
 Email: *{{ site.email }}* \\
 [LinkedIn](https://www.linkedin.com/in/jiin-woo-73aa59189) / [Google Scholar](https://scholar.google.com/citations?user=fwDL_gMAAAAJ) 
 <!-- / [CV](./CV_jiinw.pdf) -->
@@ -18,11 +18,9 @@ Email: *{{ site.email }}* \\
 
 <img style="margin-right: 40px;" src="./jiinw_profile.jpeg" alt="drawing" width="300"/>
 
-I am a fifth-year PhD student in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), fortunate to be advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before coming to CMU, I was a machine learning engineer at [NAVER Search](https://www.navercorp.com/en/naver/company). Previously, I received my MS in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and BS in Mathematical Sciences at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
+I am an Applied Scientist at Neuron Science team in Amazon Annapurna Labs. I received my PhD in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) department at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), fortunate to be advised by [Yuejie Chi](https://users.ece.cmu.edu/~yuejiec/) and [Gauri Joshi](https://www.andrew.cmu.edu/user/gaurij/). Before CMU, I was a machine learning engineer at [NAVER Search](https://www.navercorp.com/en/naver/company). Previously, I received my MS in Electrical Engineering (advised by [Yung Yi](https://yung-web.github.io/home/)) and BS in Mathematical Sciences at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/). 
 
-My research interests lie in collaborative reinforcement learning, LLM-augmented reinforcement learning, and statistical analysis.
-
-I'm currently on the job market and expect to graduate in Spring 2026. I'm open to connecting and feel free to reach out!
+My research interests lie in LLM post-training and collaborative reinforcement learning.
 
 ---
 
@@ -30,24 +28,31 @@ I'm currently on the job market and expect to graduate in Spring 2026. I'm open 
 
 \* : equal distribution
 
-#### LLMs + RL
+#### RL, LLM Post-training
+
+
+* Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL \\
+<strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
+*NeurIPS*, 2026 \\
+[[arxiv](https://arxiv.org/pdf/2601.22318)], 2026 \\
+
+* Federate the Router: Learning Language Model Routers with Sparse and Decentralized Evaluations \\
+Baris Askin, Shivam Patel, Anupam Nayak, Andrea Vigano, <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Carlee Joe-Wong  \\
+*NeurIPS*, 2026 \\
 
 * TritonRL: Training LLMs to Think and Code Triton Without Cheating \\
 <strong><u>Jiin Woo</u></strong>, Shaowei Zhu, Allen Nie, Zhen Jia, Yida Wang, Youngsuk Park \\
-*Preprint*, 2025 \\
-[[arxiv](http://arxiv.org/abs/2510.17891)]
+*COLM*, 2026 \\
+[[paper](https://openreview.net/pdf?id=LIlJXdstH2)][[arxiv](http://arxiv.org/abs/2510.17891)]
+
+* Sample Complexity of Average-Reward Q-Learning: From Single-agent to Federated Reinforcement Learning \\
+Yuchen Jiao<sup>\*</sup>, **<u>Jiin Woo</u>**<sup>\*</sup>, Gen Li, Gauri Joshi, Yuejie Chi \\
+[[arxiv](https://arxiv.org/pdf/2601.13642)], 2026 \\
 
 * Large Language Model-Enhanced RL for Diverse and Novel Recommendations \\
 <strong><u>Jiin Woo</u></strong>, Alireza Bagheri Garakani, Tianchen Zhou, Zhishen Huang, Yan Gao \\
 *ARLET Workshop @ NeurIPS*, 2025 \\
 [[arxiv](https://arxiv.org/abs/2507.21274)]
-
-  
-#### Collaborative RL
-
-* Sample Complexity of Average-Reward Q-Learning: From Single-agent to Federated Reinforcement Learning \\
-Yuchen Jiao<sup>\*</sup>, **<u>Jiin Woo</u>**<sup>\*</sup>, Gen Li, Gauri Joshi, Yuejie Chi \\
-*Preprint*, 2025 \\
 
 * The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup and Beyond \\
 <strong><u>Jiin Woo</u></strong>, Gauri Joshi, Yuejie Chi \\
